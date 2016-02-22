@@ -2,3 +2,5 @@
 
 
 echo "Hello World" > /tmp/foobar
+
+echo "Hello Jenkins" > /tmp/foobarj
